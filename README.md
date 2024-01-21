@@ -177,7 +177,6 @@ Then you can run the notebook or use the command to run the app:
 ```
 code
 ├─ full
-├─ images
 ├─ kb
 │  ├─ apparel_products.txt
 │  └─ paper_products.txt
